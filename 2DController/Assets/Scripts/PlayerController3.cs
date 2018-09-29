@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController3 : MonoBehaviour
 {
-    // detailed player controller with parical effect
+    // detailed player controller with partical effect
 
     public float speed;
     public float jumpForce;

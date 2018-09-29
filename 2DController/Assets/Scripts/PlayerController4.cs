@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController4 : MonoBehaviour
 {
 
-    public float speed;                                   //hallowknight like jump
+    public float speed;                                   //holowknight like jump
     public float jumpForce;
     private float moveInput;
 
